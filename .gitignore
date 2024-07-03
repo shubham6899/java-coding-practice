@@ -1,0 +1,6 @@
+# Ignore Intellij IDEA project directory
+.idea/
+
+# Ignore Intellij IDEA module file
+.iml
+
