@@ -2,5 +2,5 @@
 .idea/
 
 # Ignore Intellij IDEA module file
-.iml
+*.iml
 
