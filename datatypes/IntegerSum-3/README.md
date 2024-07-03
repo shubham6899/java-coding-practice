@@ -26,23 +26,23 @@ The `IntegerSum` project is a simple Java program that prompts the user to input
 
 3. **Compile the Java File:**
    ```sh
-   javac Main.java```
-
+   javac Main.java
+   ```
 4. **Run the Program:**
-  ```sh
-  java Main```
-
-5. **Input an Integer**
-  - Follow the on-screen prompt to input an integer between and 1000.
-  - The program will output the sum of all digits in the entered integer.
+   ```sh
+   java Main
+   ```
+5. **Input an Integer:**
+   - Follow the on-screen prompt to input an integer between and 1000.
+   - The program will output the sum of all digits in the entered integer.
 
 ## Example
   ```sh
   $ javac Main.java
   $ java Main
   Input an integer between 0 and 1000: 123
-  The sum of all digits in 123 is 6```
-
+  The sum of all digits in 123 is 6
+  ```
 ## Code Explanation
 
 The Java program 'IntegerSum.java' consists of the following key steps:
@@ -54,7 +54,7 @@ The Java program 'IntegerSum.java' consists of the following key steps:
 5. **Sum the Digits:** Sum the extracted digits.
 6. **Print the sum:** Print the sum to the console.
 
-## code
+## Code
 ```java
 import java.util.Scanner;
 
@@ -87,7 +87,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ##Acknowledgements
 
 1. This project was created as a learning exersize for java programming.
-2. Credits of all the problems go to W3resource.
+2. Credits of all the coding-problems go to W3resource.
 3. Thanks to the Java documentation and community for their valuable resources and support.
 ```javascript
 copy the above text (mainly it's general structure) and save it as `README.md` in your project directory. This will provide a decent structure to your README for your project.
